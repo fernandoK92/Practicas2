@@ -1,0 +1,29 @@
+¿Para qué se utiliza GitHub?
+
+A. Almacenar y gestionar código fuente.
+
+B. Colaborar en proyectos de programación.
+
+C. Compartir archivos de música y videos.
+
+ANSWER: A.
+
+¿Qué es una variable en JavaScript?
+
+A. Un valor constante que no puede cambiar durante la ejecución del programa.
+
+B. Un contenedor para almacenar datos que pueden cambiar durante la ejecución del programa.
+
+C. Una función que realiza una operación matemática en JavaScript.
+
+ANSWER: B.
+
+¿Qué es un bucle en JavaScript?
+
+A. Una función que repite una serie de instrucciones un número específico de veces.
+
+B. Un método para ejecutar una acción basada en una condición verdadera o falsa.
+
+C. Una estructura de control utilizada para iterar sobre una colección de datos.
+
+ANSWER: C.
